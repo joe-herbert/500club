@@ -1,0 +1,11 @@
+{
+  "name": "500club",
+  "version": "1.0.0",
+  "description": "500 club website for Molly Olly's Wishes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Herbert",
+  "license": "ISC"
+}
